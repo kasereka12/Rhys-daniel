@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"chart-area-demo.js",
+"lineCount":4,
+"mappings":"A;AAAA,IAAIA,QAAUA,OAAVA,EAAqB,CAACC,IAAK,CAACC,SAAU,aAAX,CAAN,CAEzBC,MAAA,CAAMC,QAAN,CAAeC,MAAf,CAAsBC,iBAAtB,CAA0C,gGAC1CH,MAAA,CAAMC,QAAN,CAAeC,MAAf,CAAsBE,gBAAtB,CAAyC,SAGzC;IAAIC,IAAMC,QAAA,CAASC,cAAT,CAAwB,aAAxB,CAAV,CACIC,YAAc,IAAIR,KAAJ,CAAUK,GAAV,CAAe,CAC/BI,KAAM,MADyB,CAE/BC,KAAM,CACJC,OAAQ,mFAAA,CAAA,KAAA,CAAA,GAAA,CADJ,CAEJC,SAAU,CAAC,CACTC,MAAO,UADE,CAETC,YAAa,EAFJ,CAGTC,gBAAiB,qBAHR,CAITC,YAAa,mBAJJ,CAKTC,YAAa,CALJ,CAMTC,qBAAsB,mBANb,CAOTC,iBAAkB,uBAPT,CAQTC,iBAAkB,CART,CASTC,0BAA2B,mBATlB,CAUTC,eAAgB,EAVP,CAWTC,iBAAkB,CAXT;AAYTb,KAAM,CAAC,GAAD,CAAQ,KAAR,CAAe,KAAf,CAAsB,KAAtB,CAA6B,KAA7B,CAAoC,KAApC,CAA2C,KAA3C,CAAkD,KAAlD,CAAyD,KAAzD,CAAgE,KAAhE,CAAuE,KAAvE,CAA8E,KAA9E,CAAqF,KAArF,CAZG,CAAD,CAFN,CAFyB,CAmB/Bc,QAAS,CACPC,OAAQ,CACNC,MAAO,CAAC,CACNC,KAAM,CACJC,KAAM,MADF,CADA,CAINC,UAAW,CACTC,QAAS,CAAA,CADA,CAJL,CAONC,MAAO,CACLC,cAAe,CADV,CAPD,CAAD,CADD,CAYNC,MAAO,CAAC,CACNF,MAAO,CACLG,IAAK,CADA,CAELC,IAAK,GAFA,CAGLH,cAAe,CAHV,CADD,CAMNH,UAAW,CACTO,MAAO,qBADE,CANL,CAAD,CAZD,CADD,CAwBPC,OAAQ,CACNP,QAAS,CAAA,CADH,CAxBD,CAnBsB,CAAf;",
+"sources":["chart-area-demo.unminified.js"],
+"names":["process","env","NODE_ENV","Chart","defaults","global","defaultFontFamily","defaultFontColor","ctx","document","getElementById","myLineChart","type","data","labels","datasets","label","lineTension","backgroundColor","borderColor","pointRadius","pointBackgroundColor","pointBorderColor","pointHoverRadius","pointHoverBackgroundColor","pointHitRadius","pointBorderWidth","options","scales","xAxes","time","unit","gridLines","display","ticks","maxTicksLimit","yAxes","min","max","color","legend"]
+}

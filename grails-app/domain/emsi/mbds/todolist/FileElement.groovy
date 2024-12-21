@@ -1,10 +1,18 @@
 package emsi.mbds.todolist
 
-class  FileElement extends Element {
+import grails.plugin.springsecurity.annotation.Secured
 
-    String name
+@Secured(['ROLE_USER', 'ROLE_ADMIN']) // Restreint l'accès aux utilisateurs autorisés
+class FileElement {
+    String fileName
+    String contentType
+    byte[] data
+
+    static belongsTo = [element: Element]
 
     static constraints = {
-        name nullable: false, blank: false
+        fileName nullable: false, blank: false
+        contentType nullable: false, blank: false
+        data maxSize: 10485760 // Limite à 10 Mo
     }
 }

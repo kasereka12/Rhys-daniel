@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"datatables-demo.js",
+"lineCount":2,
+"mappings":"A;AAAA,IAAIA,QAAUA,OAAVA,EAAqB,CAACC,IAAK,CAACC,SAAU,aAAX,CAAN,CAEzBC,EAAA,CAAEC,QAAF,CAAA,CAAYC,KAAZ,CAAkB,QAAQ,EAAG,CAC3BF,CAAA,CAAE,YAAF,CAAA,CAAgBG,SAAhB,EAD2B,CAA7B;",
+"sources":["datatables-demo.unminified.js"],
+"names":["process","env","NODE_ENV","$","document","ready","DataTable"]
+}
